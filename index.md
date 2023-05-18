@@ -1,15 +1,9 @@
-### Back end
-* 2023
-
-### data structure and algorithm
-
-### Big Data
-
-### Math
-
-
-### Others
-* 2023-05-18 > [google ads api](/posts/20230518-googleads.md)
-
-------
-[About Me](/about/me.md)
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
