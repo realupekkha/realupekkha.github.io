@@ -1,9 +1,3 @@
----
-layout: post
-title: "Google Ads API"
-categories: misc
----
-
 # **Google Ads API**
 
 # **申请调试**
